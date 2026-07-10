@@ -54,9 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+## Array
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
