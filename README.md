@@ -49,4 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0784-letter-case-permutation](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/thanhbinh170708-wq/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
