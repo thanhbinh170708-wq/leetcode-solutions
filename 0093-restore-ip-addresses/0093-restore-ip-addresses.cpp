@@ -28,7 +28,7 @@
             {
                 tempans += s[ans.size() - n+dem-1];     
                 
-                cout << "tempans=[" << tempans << "]\n";
+                
                 int tempint = stoi(tempans);
                 if (tempans.size() == 1 && tempans[0] =='0')
                 { 
